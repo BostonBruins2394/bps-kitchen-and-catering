@@ -1,0 +1,23 @@
+{
+  "expo": {
+    "name": "BP's Kitchen and Catering",
+    "slug": "bps-kitchen-catering",
+    "scheme": "bpskitchen",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "dark",
+    "plugins": [
+      "expo-router"
+    ],
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.bpskitchen.catering"
+    },
+    "android": {
+      "package": "com.bpskitchen.catering"
+    },
+    "experiments": {
+      "typedRoutes": true
+    }
+  }
+}
